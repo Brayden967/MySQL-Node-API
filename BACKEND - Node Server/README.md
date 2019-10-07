@@ -1,8 +1,8 @@
 # MySQL-Node-API
 Node.js API for MySQL 
 
-Installation:
+<h2>Installation:</h2>
 
-npm install
+- npm install
 
-npm run dev
+- npm run dev
